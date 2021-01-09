@@ -6,8 +6,8 @@
         margin: 0;    
         
     }
-    body.bg{
-        background-image:url("imagens/Fundo.jpg");
+    .bg {
+        background-image:url("imagens/Fundo3.jpg");
         background-repeat: repeat scroll;
         background-size: cover;
         opacity: 1;
